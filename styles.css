@@ -23,3 +23,50 @@
   body {
     background-color: #f5d3ab;
   }
+  .big-box {
+    width: 770px;
+    height: 448px;
+    background-color: #9b9b9b;
+    margin-left: 135px;
+    color: #ffffff;
+    margin-top: 80px;
+    padding-top: 240px;
+    padding-left: 80px;
+  }
+  
+  .title3-container {
+    display: flex;
+    align-items: center;
+  }
+  .title1 {
+    font-family: Oswald;
+    font-size: 16px;
+    line-height: 32px;
+    width: 62px;
+    margin-bottom: 20px;
+  }
+  
+  .title2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    margin-bottom: 40px;
+  }
+  
+  .title3 {
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-right: 150px;
+  }
+  .price {
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .content-container {
+    display: flex;
+    justify-content: flex-start;
+  }
