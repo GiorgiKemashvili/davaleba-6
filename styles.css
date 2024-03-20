@@ -111,3 +111,107 @@
     height: 75%;
     background-color: #bbbbbb;
   }
+  .boxes3 {
+    padding-top: 50px;
+    padding-left: 140px;
+  }
+  
+  .box {
+    width: 370px;
+    height: 448px;
+    background-color: #ffffff;
+    color: #171b1b;
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+    padding-top: 350px;
+    padding-left: 60px;
+    position: relative;
+  }
+  .title6 {
+    font-family: Oswald;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    margin-bottom: 20px;
+  }
+  .title7 {
+    font-family: Oswald;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .title7-container {
+    display: flex;
+    align-items: center;
+  }
+  .price3 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    margin-left: 160px;
+  }
+  .paint2 {
+    position: absolute;
+    margin-top: -448px;
+    margin-left: 0px;
+    width: 27.5%;
+    height: 55%;
+    background-color: #9b9b9b;
+  }
+  .title8 {
+    font-family: Oswald;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    margin-bottom: 20px;
+  }
+  .title9 {
+    font-family: Oswald;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .title9-container {
+    display: flex;
+    align-items: center;
+  }
+  .price4 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    margin-left: 160px;
+  }
+  .paint3 {
+    position: absolute;
+    margin-top: -448px;
+    margin-left: 394px;
+    width: 27.5%;
+    height: 55%;
+    background-color: #9b9b9b;
+  }
+  .title10 {
+    font-family: Oswald;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    margin-bottom: 20px;
+  }
+  .title11 {
+    font-family: Oswald;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .title11-container {
+    display: flex;
+    align-items: center;
+  }
+  .paint4 {
+    position: absolute;
+    margin-top: -448px;
+    margin-left: 787px;
+    width: 27.5%;
+    height: 55%;
+    background-color: #9b9b9b;
+  }
